@@ -6,6 +6,18 @@
 ---
 
 ## 🚀 Projects
+to do list on rust https://github.com/abidiyoussef086/to-do-list-on-rust-
+nextjs ai chatbot https://github.com/abidiyoussef086/nextjs-ai-chatbot
+Cryptara crypto trading platform (servers no blockchain) https://github.com/abidiyoussef086/backend-cryptara-
+i am gonna add a link to my tech coin once i drop it 
+## 💎 Why Cryptara Tech Coin?
+- 🚀 Built for innovation in tech & R&D  
+- 🔒 Secure, transparent, and community-driven  
+- ⚡ Fast transactions with low fees  
+- 🌍 Designed to support projects in mechatronics, robotics, and AI  
+- 🔧 Open to developers, researchers, and innovators worldwide  
+
+
 
 
 ---
@@ -28,13 +40,7 @@
 - Arduino for embedded systems  
 - Ada for safety-critical applications  
 - Mechatronics applications in robotics  
-- Research & Development methodologies  
-
----
-
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=abidiyoussef086&show_icons=true&theme=radical)  
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abidiyoussef086&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical)  
+- Biomedical systems 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOURUSERNAME)
+
