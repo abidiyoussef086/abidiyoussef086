@@ -1,15 +1,12 @@
 # Hi 👋 I'm Youssef
-
-💻 Computer Science Student  
-🦀 Learning Rust  
+21 yo unc
+💻 fullstack dev 
 🔬 Interested in Mechatronics & R&D  
 
 ---
 
 ## 🚀 Projects
-- [Rust CLI To-Do App](https://github.com/YOURUSERNAME/rust-todo)
-- [Algorithms Practice](https://github.com/YOURUSERNAME/algorithms)
-- [AI Experiments](https://github.com/YOURUSERNAME/ai-experiments)
+
 
 ---
 
@@ -36,7 +33,8 @@
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
+![stats](https://github-readme-stats.vercel.app/api?username=abidiyoussef086&show_icons=true&theme=radical)  
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abidiyoussef086&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical)  
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOURUSERNAME)
