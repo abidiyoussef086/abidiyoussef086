@@ -8,14 +8,9 @@
 ## 🚀 Projects
 to do list on rust https://github.com/abidiyoussef086/to-do-list-on-rust-
 nextjs ai chatbot https://github.com/abidiyoussef086/nextjs-ai-chatbot
-Cryptara crypto trading platform (servers no blockchain) https://github.com/abidiyoussef086/backend-cryptara-
+Cryptara crypto trading platform 
 i am gonna add a link to my tech coin once i drop it 
-## 💎 Why Cryptara Tech Coin?
-- 🚀 Built for innovation in tech & R&D  
-- 🔒 Secure, transparent, and community-driven  
-- ⚡ Fast transactions with low fees  
-- 🌍 Designed to support projects in mechatronics, robotics, and AI  
-- 🔧 Open to developers, researchers, and innovators worldwide  
+
 
 
 
@@ -40,7 +35,7 @@ i am gonna add a link to my tech coin once i drop it
 - Arduino for embedded systems  
 - Ada for safety-critical applications  
 - Mechatronics applications in robotics  
-- Biomedical systems 
+
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOURUSERNAME)
 
