@@ -1,15 +1,6 @@
-# Hi 👋 I'm Youssef
-21 yo unc
-💻 fullstack dev 
-🔬 Interested in Mechatronics & R&D  
+Hi, I'm Youssef Abidi  — an L1 student at , passionate about software engineering, full-stack development, and the ever-evolving world of technology. I'm someone who learns by building, breaking things, and rebuilding them better.
 
 ---
-
-## 🚀 Projects
-to do list on rust https://github.com/abidiyoussef086/to-do-list-on-rust-
-nextjs ai chatbot https://github.com/abidiyoussef086/nextjs-ai-chatbot
-Cryptara crypto trading platform 
-i am gonna add a link to my tech coin once i drop it 
 
 
 
@@ -29,12 +20,24 @@ i am gonna add a link to my tech coin once i drop it
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+### 🧠 Soft Skills & Mindset
+
+- **Problem-solving under pressure** — Learning to break down complex problems into manageable steps
+- **Self-directed learning** — Going beyond the curriculum to explore tools and concepts independently
+- **Persistence** — Pushing through bugs, errors, and late-night debugging sessions
+- **Technical communication** — Documenting code, writing clean commits, explaining decisions
+
 
 ## 📚 Currently Learning
 - Rust for systems programming  
 - Arduino for embedded systems  
 - Ada for safety-critical applications  
 - Mechatronics applications in robotics  
+I'm walking away with:
+- ✅ A real project deployed in production
+- ✅ Foundational CS knowledge (databases, algorithms, OS)
+- ✅ A full-stack skill set I can keep building on
+- ✅ The mindset of a developer, not just a student
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOURUSERNAME)
