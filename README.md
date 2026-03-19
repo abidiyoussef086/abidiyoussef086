@@ -1,4 +1,4 @@
-Hi, I'm Youssef Abidi  — an L1 student at , passionate about software engineering, full-stack development, and the ever-evolving world of technology. I'm someone who learns by building, breaking things, and rebuilding them better.
+Hi, I'm Youssef Abidi  — an L1 student at Polytech  , passionate about software engineering, full-stack development, and the ever-evolving world of technology. I'm someone who learns by building, breaking things, and rebuilding them better.
 
 ---
 
