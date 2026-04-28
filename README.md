@@ -1,12 +1,4 @@
-Hi, I'm Youssef Abidi  — an L1 student at Polytech  , passionate about software engineering, full-stack development, and the ever-evolving world of technology. I'm someone who learns by building, breaking things, and rebuilding them better.
 
----
-
-
-
-
-
----
 
 ## 🛠 Tech Stack
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -33,12 +25,5 @@ Hi, I'm Youssef Abidi  — an L1 student at Polytech  , passionate about softwar
 - Arduino for embedded systems  
 - Ada for safety-critical applications  
 - Mechatronics applications in robotics  
-I'm walking away with:
-- ✅ A real project deployed in production
-- ✅ Foundational CS knowledge (databases, algorithms, OS)
-- ✅ A full-stack skill set I can keep building on
-- ✅ The mindset of a developer, not just a student
 
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOURUSERNAME)
 
